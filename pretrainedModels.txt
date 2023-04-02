@@ -1,0 +1,2 @@
+Pretrained models can be found here:
+https://figshare.com/articles/dataset/TourismNLGModels/21280362
